@@ -1,1 +1,1 @@
-![LogInTestCasePassed]https://raw.githubusercontent.com/sadhika88/KosmikHospitalManagementSystemProject/blob/af21a27010eee1b6958dd2a1d20ad74cd26b3117/Screenshot%202025-02-15%20150027.png
+![LogIn TestCase Passed](https://github.com/sadhika88/KosmikHospitalManagementSystemProject/blob/7e0e1a57210d44719998fc574d4fd951a97e6f7c/Screenshot%202025-02-15%20150027.png)
