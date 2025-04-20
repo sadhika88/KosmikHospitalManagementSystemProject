@@ -30,12 +30,13 @@ KosmikHospitalManagementSystem
 
 - **Test Case:** Invalid username/password  
   **Expected Result:** Show error message
-  ## 📷 Screenshot
-  
 
-### 🧼 Reset Button Test
+  ### 🧼 Reset Button Test
 
 - **Test Case:** Click Reset after typing username/password  
   **Expected Result:** Fields should clear
+  
+## 📷 Screenshot
+ ![Login]( https://github.com/sadhika88/KosmikHospitalManagementSystemProject/blob/e812ed63b45a79979f86cd43221e10b9635afc27/Screenshot%202025-02-15%20150027.png)
 
 
