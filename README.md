@@ -30,6 +30,8 @@ KosmikHospitalManagementSystem
 
 - **Test Case:** Invalid username/password  
   **Expected Result:** Show error message
+  ## 📷 Screenshot
+  
 
 ### 🧼 Reset Button Test
 
