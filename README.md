@@ -38,5 +38,6 @@ KosmikHospitalManagementSystem
   
 ## 📷 Screenshot
  ![Login]( https://github.com/sadhika88/KosmikHospitalManagementSystemProject/blob/e812ed63b45a79979f86cd43221e10b9635afc27/Screenshot%202025-02-15%20150027.png)
+ 🎥 [Click here to watch project execution video](https://drive.google.com/file/d/19ATAOH0AY_d8Bn_PEWsp1RyWiAYcPAdl/view?usp=sharing)
 
 
