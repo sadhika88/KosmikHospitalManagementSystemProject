@@ -60,7 +60,7 @@ KosmikHospitalManagementSystem
 - 📬 **Permanent Address**: Address, Phone, Email, Country
 - 🏠 **Current Address**: Address2, Pin/Zip
 - 💾 **Save** and ❌ **Clear** buttons for form actions
-  📂 Project Structure
+
 **📂 Project Structure**
 
 **KosmikHospitalManagementSystem**
