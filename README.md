@@ -39,5 +39,26 @@ KosmikHospitalManagementSystem
 ## 📷 Screenshot
  ![Login]( https://github.com/sadhika88/KosmikHospitalManagementSystemProject/blob/e812ed63b45a79979f86cd43221e10b9635afc27/Screenshot%202025-02-15%20150027.png)
  🎥 [Click here to watch project execution video](https://drive.google.com/file/d/19ATAOH0AY_d8Bn_PEWsp1RyWiAYcPAdl/view?usp=sharing)
+ # 🏥 Patient Registration Form
+## ✨ Features of Patient Registration Form
+- 📂 **Patient Category** selection (e.g., General, Emergency)
+- 🧑 **Full Name Input** (First, Middle, Last)
+- 🎓 **Title & Relation** dropdowns
+- 📅 **Date of Birth** input with calendar picker
+- 🔢 **Auto-calculated Age**
+- 🚻 **Gender, Marital Status, Religion** selection
+- 🗣️ **Primary Language** selection
+- 🆔 **Patient Identifier** selection
+- 📄 **PAN/Voter ID/AADAR No.** input
+- 🌍 **Nationality, Citizenship**
+- 🎓 **Education & Occupation**
+- 🩸 **Blood Group** selection
+- 👵 **Senior Citizen Proof Submitted** option
+- 👩‍👧‍👦 **Mother’s Maiden Name**
+- 🌟 **VIP** tag option
+- 🖼️ **Profile Photo Upload**
+- 📬 **Permanent Address**: Address, Phone, Email, Country
+- 🏠 **Current Address**: Address2, Pin/Zip
+- 💾 **Save** and ❌ **Clear** buttons for form actions
 
 
