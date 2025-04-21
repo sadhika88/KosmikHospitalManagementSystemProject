@@ -61,13 +61,20 @@ KosmikHospitalManagementSystem
 - 🏠 **Current Address**: Address2, Pin/Zip
 - 💾 **Save** and ❌ **Clear** buttons for form actions
   📂 Project Structure
-  KosmikHospitalManagementSystem
-├── src/ test/java│ 
-└── PageObjects
- └── HomePage.java 
-├─ TestCases 
-└── PatientReageriatrationTestcase.java
-└── testng.java 
+**📂 Project Structure**
 
+**KosmikHospitalManagementSystem**
+
+**├── src/ test/java│**
+
+**└── PageObjects**
+
+ **└── HomePage.java** 
+
+**├─ TestCases** 
+
+**└── PatientReageriatrationTestcase.java**
+
+**└── testng.java**
 
 
