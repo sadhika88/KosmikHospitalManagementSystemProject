@@ -76,5 +76,6 @@ KosmikHospitalManagementSystem
 **└── PatientReageriatrationTestcase.java**
 
 **└── testng.java**
+![ScreenShot](https://github.com/sadhika88/KosmikHospitalManagementSystemProject/blob/65d3e5f03e1a6498daaec81cdafed774f306f5be/Screenshot%202025-04-22%20221013.png)
 
 
