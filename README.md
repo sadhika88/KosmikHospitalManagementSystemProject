@@ -78,6 +78,7 @@ KosmikHospitalManagementSystem
 **└── testng.java**
 ![ScreenShot](https://github.com/sadhika88/KosmikHospitalManagementSystemProject/blob/65d3e5f03e1a6498daaec81cdafed774f306f5be/Screenshot%202025-04-22%20221013.png)
 🎥 [Click here to watch project execution video](https://drive.google.com/file/d/12V_reVARykJwwc39p34UvdTrrKW-4sPV/view?usp=sharing)
-🧪 Test Cases
+# 🧪 TEST CASES
+
 
 
